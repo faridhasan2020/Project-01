@@ -21,7 +21,7 @@ KNN	15,819,687,755.00	0.853			15,329,416,786.00	0.878	15				15,819,687,755.00
 Linear Regression was selected as the final model because it achieved the highest validation R² (0.9102) among the evaluated models. Its training R² of 0.9189 and validation R² of 0.9102 have a small gap of 0.0087, indicating little evidence of overfitting. After locking the model based on validation performance, it was evaluated once on the held-out test set. The final Test R² was 0.9222 and Test MSE was approximately 9.80 billion. The test set was not used for model selection or hyperparameter tuning.															
 
 
-▶ Screenshots of the Gradio interface:
+▶ Screenshots of the Gradio interface:  
 
 ▶ Public Hugging Face Space URL, if deployed (optional):
 
